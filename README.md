@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
+![Made with ❤️](https://img.shields.io/badge/Made_with-Love-red)
 # InputValidator 🛡️
 
 A simple Python class that validates usernames based on specific rules such as:
